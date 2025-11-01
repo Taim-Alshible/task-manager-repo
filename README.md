@@ -7,10 +7,10 @@ Task Manager API is a simple backend application built with Laravel that allows 
 3. Secure authentication for users (if included)
 4. RESTful API structure ready for frontend integration
 ## Technologies Used
-1.Laravel Backend framework
-2.MYSQL Database
-3.Postman API testing
-4.Git & Github Version control
+1. Laravel Backend framework
+2. MYSQL Database
+3. Postman API testing
+4. Git & Github Version control
 ## Installation & Setup
 1. Clone the repository: git clone https://github.com/your-username/task-manager-api.git
 2. Install dependencies: composer install
