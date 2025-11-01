@@ -2,10 +2,10 @@
 ## Project Overview
 Task Manager API is a simple backend application built with Laravel that allows users to manage their daily tasks efficiently. It provides endpoints for creating, reading, updating, and deleting tasks (CRUD operations).
 ## Features
-Create, edit, and delete tasks
-Mark tasks as favorite
-Secure authentication for users (if included)
-RESTful API structure ready for frontend integration
+1. Create, edit, and delete tasks
+2. Mark tasks as favorite
+3. Secure authentication for users (if included)
+4. RESTful API structure ready for frontend integration
 ## Technologies Used
 Laravel Backend framework
 MYSQL Database
